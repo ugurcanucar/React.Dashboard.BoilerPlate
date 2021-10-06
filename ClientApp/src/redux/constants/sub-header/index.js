@@ -1,0 +1,2 @@
+export const SET_PAGE_OPTIONS = "SET_PAGE_OPTIONS";
+export const SET_PAGE_BUTTONS = "SET_PAGE_BUTTONS";
